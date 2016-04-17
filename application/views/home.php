@@ -449,7 +449,7 @@
         </div>
         <ul class="client wow fadeIn delay-05s">
             <li><a href="#">
-                <img src="img/client-pic1.jpg" alt="">
+                <img src="<?php echo base_url();?>img/client-pic1.jpg" alt="">
                 <h3>James Bond</h3>
                 <span>License To Drink Inc.</span>
             </a></li>
