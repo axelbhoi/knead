@@ -430,7 +430,7 @@
 </section><!--main-section-end-->
 
 
-<section class="main-section client-part" id="client" style = "background:url(<?php echo base_url();?>img/<?php echo $images[3]->name;?>) center center no-repeat;background-size:cover;"><!--main-section client-part-start-->
+<section class="main-section client-part" id="client" style = "background:url(<?php echo base_url();?>img/section-bg1.jpg) center center no-repeat;background-size:cover;"><!--main-section client-part-start-->
 	<div class="container">
 		<b class="quote-right wow fadeInDown delay-03"><i class="fa-quote-right"></i></b>
         <!--
