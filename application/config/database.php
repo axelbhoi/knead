@@ -47,7 +47,7 @@
 
 $active_group = 'default';
 $active_record = TRUE;
-/*
+
 $db['default']['hostname'] = 'localhost';
 $db['default']['username'] = 'root';
 $db['default']['password'] = 'axelbhoi';
@@ -63,22 +63,7 @@ $db['default']['dbcollat'] = 'utf8_general_ci';
 $db['default']['swap_pre'] = '';
 $db['default']['autoinit'] = TRUE;
 $db['default']['stricton'] = FALSE;
-*/
-$db['default']['hostname'] = 'ec2-54-197-237-120.compute-1.amazonaws.com';
-$db['default']['username'] = 'jnjkhxhawvlmhs';
-$db['default']['password'] = 'uc1xZgSMGM6BOGbXckCZ0a9mXD';
-$db['default']['database'] = 'd2kekup40vvhf1';
-$db['default']['dbdriver'] = 'pdo';
-$db['default']['dbprefix'] = '';
-$db['default']['pconnect'] = TRUE;
-$db['default']['db_debug'] = TRUE;
-$db['default']['cache_on'] = FALSE;
-$db['default']['cachedir'] = 'application/cache/db/';
-$db['default']['char_set'] = 'utf8';
-$db['default']['dbcollat'] = 'utf8_general_ci';
-$db['default']['swap_pre'] = '';
-$db['default']['autoinit'] = TRUE;
-$db['default']['stricton'] = FALSE;
+
 
 /* End of file database.php */
 /* Location: ./application/config/database.php */
