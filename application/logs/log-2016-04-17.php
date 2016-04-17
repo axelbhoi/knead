@@ -21,3 +21,10 @@ ERROR - 2016-04-17 23:17:45 --> Severity: Notice  --> Trying to get property of 
 ERROR - 2016-04-17 23:17:45 --> Severity: Notice  --> Undefined variable: clients C:\xampp\htdocs\kneads\application\views\home.php 439
 ERROR - 2016-04-17 23:17:45 --> Severity: Notice  --> Undefined variable: images C:\xampp\htdocs\kneads\application\views\home.php 488
 ERROR - 2016-04-17 23:17:45 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\kneads\application\views\home.php 488
+ERROR - 2016-04-17 23:22:46 --> Severity: Notice  --> Undefined variable: images C:\xampp\htdocs\kneads\application\views\home.php 139
+ERROR - 2016-04-17 23:22:46 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\kneads\application\views\home.php 139
+ERROR - 2016-04-17 23:22:46 --> Severity: Notice  --> Undefined variable: images C:\xampp\htdocs\kneads\application\views\home.php 433
+ERROR - 2016-04-17 23:22:46 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\kneads\application\views\home.php 433
+ERROR - 2016-04-17 23:22:46 --> Severity: Notice  --> Undefined variable: clients C:\xampp\htdocs\kneads\application\views\home.php 439
+ERROR - 2016-04-17 23:22:46 --> Severity: Notice  --> Undefined variable: images C:\xampp\htdocs\kneads\application\views\home.php 488
+ERROR - 2016-04-17 23:22:46 --> Severity: Notice  --> Trying to get property of non-object C:\xampp\htdocs\kneads\application\views\home.php 488
