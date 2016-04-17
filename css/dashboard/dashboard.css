@@ -1,0 +1,25 @@
+body{
+	background-color: #FFFFFF !important;
+}
+
+a{
+	color:#333;
+}
+
+.t-options a{
+	padding:5px;
+}
+
+.navbar-toggle{
+	float:right !important;
+}
+
+.dataTables_length{
+	display:none;
+}
+
+.note-editor .note-editing-area .note-editable{
+	min-height:250px;
+	max-height:250px;
+	overflow:scroll-x auto !important;
+}
